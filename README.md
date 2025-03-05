@@ -12,7 +12,7 @@ This project trains an AI to play *Mortal Kombat II* (Genesis) using Reinforceme
 ## Installation
 
 ### Requirements
-Ensure you have Python 3.8+ and install the dependencies:
+Ensure you have Python 3.8 and install the dependencies:
 
 ```bash
 pip install -r requirements.txt
